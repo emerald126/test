@@ -1,2 +1,4 @@
-= 대문 =
-GIT 테스트 중입니다.
+MDwiki
+======
+
+See http://www.mdwiki.info/ for more documentation and details.
